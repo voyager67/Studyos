@@ -1,0 +1,12 @@
+{
+  "name": "studyos-complete-edition",
+  "private": false,
+  "description": "A complete local-first study workspace with smart planning, syllabus tracking, focus sessions, revision, flashcards, notes, exams, habits, goals, calendar, and insights.",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "node --check app.js && node --check features.js && node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use StudyOS in a project, presentation, or report, please cite the repository."
+title: "StudyOS: Complete Study Workspace"
+type: software
+abstract: "A local-first study workspace for planning, syllabus tracking, focus sessions, spaced repetition, flashcards, exams, notes, habits, goals, calendar exports, and insights."
+repository-code: "https://github.com/voyager67/studyos"
+license: MIT

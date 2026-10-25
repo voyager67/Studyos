@@ -1,0 +1,15 @@
+{
+  "name": "StudyOS — Complete Study Workspace",
+  "short_name": "StudyOS",
+  "description": "A local-first workspace for tasks, syllabus tracking, revision, flashcards, exams, notes, habits, timetable, goals, and progress insights.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f7fb",
+  "theme_color": "#6b58dc",
+  "icons": [
+    { "src": "./assets/studyos-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["education", "productivity", "utilities"]
+}
