@@ -7,7 +7,7 @@
     <img alt="Complete Edition" src="https://img.shields.io/badge/edition-complete-6b58dc" />
     <img alt="Local first" src="https://img.shields.io/badge/privacy-local--first-248b70" />
     <img alt="No dependencies" src="https://img.shields.io/badge/runtime-no%20framework%20or%20API-4079c2" />
-    <a href="https://github.com/voyager67/studyos/actions/workflows/quality.yml"><img alt="Quality checks" src="https://github.com/voyager67/studyos/actions/workflows/quality.yml/badge.svg" /></a>
+    <a href="https://github.com/voyager67/Studyos/actions/workflows/quality.yml"><img alt="Quality checks" src="https://github.com/voyager67/Studyos/actions/workflows/quality.yml/badge.svg" /></a>
   </p>
 </div>
 
